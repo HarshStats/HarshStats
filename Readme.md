@@ -55,5 +55,5 @@ I am a **Master's Student in Data Science** at TU Dortmund with **4+ years of en
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshStats&theme=react-dark&bg_color=0D1117&hide_border=true" alt="HarshStats's Github chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshStats&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Harsh's Github chart" />
 </div>
