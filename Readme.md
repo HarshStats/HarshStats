@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hr97/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://harsh-rana-mu.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgrana97@gmail.com)
@@ -18,13 +18,12 @@
 
 ---
 
-### 👨‍💻 **About Me**
-
-I am a **Master's Student in Data Science** at TU Dortmund with **4+ years of engineering experience**. I specialize in bridging the gap between statistical modeling and scalable software deployment.
-
-- 🔭 I’m currently working on **End-to-End MLOps Pipelines on AWS**
-- 🌱 I’m currently learning **Bayesian Inference & Large Language Models (LLMs)**
-- 💬 Ask me about **Python, Docker, CI/CD, and Statistical Analysis**
+### 🏆 **Achievements (All Time)**
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HarshStats&theme=dracula&no-frame=true&row=1&column=7" width="1000" />
+  </a>
+</div>
 
 ---
 
@@ -47,13 +46,18 @@ I am a **Master's Student in Data Science** at TU Dortmund with **4+ years of en
 <div align="center">
 
 <a href="https://github.com/HarshStats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshStats&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshStats&layout=compact&theme=dracula&langs_count=6&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshStats&theme=dracula&hide_border=true" alt="HarshStats" />
+</a>
+
+<br>
+
+<a href="https://github.com/HarshStats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshStats&layout=compact&theme=dracula&langs_count=6&hide_border=true" />
 </a>
 
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshStats&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Harsh's Github chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshStats&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="HarshStats Activity" />
 </div>
