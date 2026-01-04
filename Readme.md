@@ -41,13 +41,3 @@ I am a **Master's Student in Data Science** at TU Dortmund with **4+ years of en
 | **Tools & Viz** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
 </div>
-
----
-
-### 📊 **GitHub Stats**
-
-<div align="center">
-  <a href="https://github.com/HarshStats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshStats&layout=compact&theme=dracula&langs_count=6&hide_border=true" />
-  </a>
-</div>
