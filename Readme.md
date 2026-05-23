@@ -13,7 +13,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hr97/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://harsh-rana-mu.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgrana97@gmail.com)
-  <img src="https://komarev.com/ghpvc/?username=r-a-j&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HarshStats&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
